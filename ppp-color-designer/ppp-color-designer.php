@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Podlove Color Webplayer
+ * Plugin Name: PPP Color Designer
  * Plugin URI: http://podbe.wikibyte.org
  * Description: Add your player color css to your WordPress frontend. 
  * Version: 1.5
