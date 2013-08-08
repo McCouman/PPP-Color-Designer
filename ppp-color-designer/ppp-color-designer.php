@@ -3,11 +3,7 @@
  * Plugin Name: PPP Color Designer
  * Plugin URI: http://podbe.wikibyte.org
  * Description: Design a favorite color for your Podlove Webplayer. 
-<<<<<<< HEAD
  * Version: 1.5.7
-=======
- * Version: 1.5.1
->>>>>>> 9b8eec43fcd7390e5205b7d36dcc714030faed12
  * Author: Michael McCouman jr. (WordpressPlugin), Simon Waldherr (ColorConverter)
  * Author URI: https://github.com/McCouman/PPP-Color-Designer/
  */
@@ -114,19 +110,11 @@ if(!function_exists('player_css_get_default')) {
 			return;
 		}
 		switch($var_sWhere) {
-<<<<<<< HEAD
 			case 'playercss':
 				$var_sPlayerCssDefault = '';
 				break;
 
 			case 'jsoninput':
-=======
-			case 'frontend':
-				$var_sPlayerCssDefault = '';
-				break;
-
-			case 'backend':
->>>>>>> 9b8eec43fcd7390e5205b7d36dcc714030faed12
 				$var_sPlayerCssDefault = '{"hue":"185","sat":"65","lum":"44","gra":"16"}'; //Standard wenn gestartet
 				break;
 		}
@@ -159,7 +147,7 @@ if(!function_exists('player_css_options_page')) {
 		 */
 		if(!empty($_REQUEST) && isset($_REQUEST['Submit'])) {
 			/**
-			 * Validate.
+			 * Validate the nonce.
 			 *
 			 * @since 1.0.0
 			 */
