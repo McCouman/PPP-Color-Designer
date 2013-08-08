@@ -11,9 +11,9 @@ Developed by <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> <a hr
 1. lade dir das <a href="https://github.com/McCouman/PPP-Color-Designer/blob/master/ppp-color-designer.zip?raw=true">Plugin herunter</a>
 2. entpacke die Datei und lade den Ordner "ppp-color-designer" über FTP in deinen Plugin Ordner:
 <code>wordpress/wp-content/plugin/ppp-color-designer</code>
-3. gehe in deinem Wordpress unter "Plugins" und suche nach "PPP Color Designer" und Aktivire das Plugin
+3. gehe in deinem Wordpress unter "Plugins" und suche nach "PPP Color Designer" und aktivire das Plugin
 4. unter Einstellungen, findest du nun einen Eintrag mit Namen "PPP Color Designer"
-5. du kannst eine Farbe eingeben, automatisch einex Farbmix generieren oder über die Fader deine eigenen Farben zusammen mischen
+5. du kannst eine Farbe eingeben, automatisch einen Farbmix generieren oder über die Fader nutzen, um deine eigenen Farben zusammen zu mischen
 6. Klicke zum Abschluss einfach auf "Speichern und CSS erstellen"
 
 Viel Spaß
