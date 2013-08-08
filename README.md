@@ -2,9 +2,9 @@ PPP-Color-Designer
 ==================
 
 <h3>Color Design for the Podlove WebPlayer</h3>
-(German Version)
+**German Version: 1.5**
 
-Developed by <a href="https://github.com/McCouman/PPP-Color-Designer/">Michael McCouman jr. (Wordpress Plugin)</a> & <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> <a href="https://github.com/SimonWaldherr/ColorConverter.js">(ColorConverter.js)</a>
+Developed by <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> <a href="https://github.com/SimonWaldherr/ColorConverter.js">(ColorConverter.js)</a> & <a href="https://github.com/McCouman/PPP-Color-Designer/">Michael McCouman jr. (Wordpress Plugin)</a>
 <hr />
 <img src="https://raw.github.com/McCouman/PPP-Color-Designer/master/ppp-color-designer/screenshot.png" />
 
