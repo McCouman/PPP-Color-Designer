@@ -2,10 +2,10 @@
 /**
  * Plugin Name: PPP Color Designer
  * Plugin URI: http://podbe.wikibyte.org
- * Description: Add your player color css to your WordPress frontend. 
- * Version: 1.5
- * Author: Michael McCouman jr. (ColorPlugin), Simon Waldherr (ColorConverter)
- * Author URI: http://labs.wikibyte.org
+ * Description: Design a favorite color for your Podlove Webplayer. 
+ * Version: 1.5.1
+ * Author: Michael McCouman jr. (WordpressPlugin), Simon Waldherr (ColorConverter)
+ * Author URI: https://github.com/McCouman/PPP-Color-Designer/
  */
 define('PLAYER_CSS_VERSION', '1.5');
 define('PLAYER_CSS_FILE', WP_CONTENT_DIR . '/uploads/player-css-');
@@ -125,11 +125,11 @@ if(!function_exists('player_css_get_default')) {
 
 		switch($var_sWhere) {
 			case 'frontend':
-				$var_sPlayerCssDefault = '@charset "UTF-8";';
+				$var_sPlayerCssDefault = '';
 				break;
 
 			case 'backend':
-				$var_sPlayerCssDefault = '@charset "UTF-8";';
+				$var_sPlayerCssDefault = '{"hue":"185","sat":"65","lum":"44","gra":"16"}'; //Standard wenn gestartet
 				break;
 		}
 
@@ -163,7 +163,7 @@ if(!function_exists('player_css_options_page')) {
 		 */
 		if(!empty($_REQUEST) && isset($_REQUEST['Submit'])) {
 			/**
-			 * Validate the nonce.
+			 * Validate.
 			 *
 			 * @since 1.0.0
 			 */
