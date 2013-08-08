@@ -3,11 +3,11 @@
  * Plugin Name: PPP Color Designer
  * Plugin URI: http://podbe.wikibyte.org
  * Description: Design a favorite color for your Podlove Webplayer. 
- * Version: 1.5.7
+ * Version: 1.5.8
  * Author: Michael McCouman jr. (WordpressPlugin), Simon Waldherr (ColorConverter)
  * Author URI: https://github.com/McCouman/PPP-Color-Designer/
  */
-define('PLAYER_CSS_VERSION', '1.5.7');
+define('PLAYER_CSS_VERSION', '1.5.8');
 define('PLAYER_CSS_FILE', WP_CONTENT_DIR . '/uploads/player-css-');
 define('PLAYER_CSS_URI', WP_CONTENT_URL . '/uploads/player-css-');
 
@@ -19,7 +19,7 @@ define('PLAYER_CSS_URI', WP_CONTENT_URL . '/uploads/player-css-');
 function admin_register_head() {
 
 	//JQ 
-	$urljq = plugins_url(basename(dirname(__FILE__)) . '/js/libs/jquery-1.9.1.min.js?ver=' . PLAYER_CSS_VERSION);
+	$urljq = plugins_url(basename(dirname(__FILE__)) . '/js/libs/jquery.min.js?ver=' . PLAYER_CSS_VERSION);
 		 echo "<script id='pcss-jq' type='text/javascript' src='$urljq'></script>\n";
 				
 	//Player standard css
@@ -38,7 +38,7 @@ function admin_register_head() {
 		 echo "<script id='pcss-sc' type='text/javascript' src='$urlpwp1'></script>\n";
 
 	//Sliders #McCouman		
-	$fixpwp2 = plugins_url(basename(dirname(__FILE__)) . '/js/libs/pwpdesigner/html5slider.js?ver=' . PLAYER_CSS_VERSION);
+	$fixpwp2 = plugins_url(basename(dirname(__FILE__)) . '/js/libs/pwpdesigner/slider.js?ver=' . PLAYER_CSS_VERSION);
 		 echo "<script id='pcss-sl' type='text/javascript' src='$fixpwp2'></script>\n";
 	
 }
