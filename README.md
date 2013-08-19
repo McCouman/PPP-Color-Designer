@@ -34,9 +34,40 @@ Viel Spaß
 <a href="https://flattr.com/profile/mccouman"><img style="margin-bottom: -7px;" src="https://a248.e.akamai.net/camo.github.com/739a757846f69c1cc10163619eec008e871b591b/687474703a2f2f6170692e666c617474722e636f6d2f627574746f6e2f666c617474722d62616467652d6c617267652e706e67"> Michael McCouman jr.</a> <a style="text-decoration:none !important; color:#000 !important;" href="https://github.com/McCouman/">(Wordpress Plugin)</a>, <span style="padding-left:10px;"></span><a href="https://flattr.com/profile/SimonWaldherr"><img style="margin-bottom: -7px;" src="https://a248.e.akamai.net/camo.github.com/739a757846f69c1cc10163619eec008e871b591b/687474703a2f2f6170692e666c617474722e636f6d2f627574746f6e2f666c617474722d62616467652d6c617267652e706e67"> Simon Waldherr</a>  <a style="text-decoration:none !important; color:#000 !important;" href="https://github.com/SimonWaldherr/ColorConverter.js">(ColorConverter.js)</a>
 
 <h4>Lizenzen:</h4>
+<pre>
+/**
+* PPP-Color-Designer
+* License: MIT
+* Version: 1.8.5
+* BY: Michael McCouman jr. (aka Michael Kaufmann)
+*/
+</pre>
+Project: <a href="https://github.com/McCouman/PPP-Color-Designer">Color Designer Plugin</a>
+Contributors: [Michael Kaufmann](https://github.com/mccouman/)
 
-in Arbeit
+<pre>
+/**
+* ColorConverter.js:
+* License: MIT
+* Version: 0.1.0
+* StandDate: 07.2013
+* BY: Simon Waldherr
+*/
+</pre>
+Project: <a href="https://github.com/SimonWaldherr/ColorConverter.js">ColorConverter.js</a>
+Contributors: [Simon Waldherr](https://github.com/simonwaldherr/)
 
+<pre>
+/**
+* Podlove Webplayer CSS:
+* License: BSD 2-Clause License
+* Link: https://github.com/podlove/podlove-web-player/
+* Version: 2.0.13 (Download)
+* BY: Gerrit van Aaken, Simon Waldherr, Frank Hase, Eric Teubert & Andere
+*/
+</pre>
+Project: <a href="https://github.com/podlove/podlove-web-player/blob/2.0.x/podlove-web-player/static/podlove-web-player.css">Podlove</a>
+Contributors: [Gerrit van Aaken](https://github.com/gerritvanaaken/), [Simon Waldherr](https://github.com/simonwaldherr/), [Frank Hase](https://github.com/Kambfhase/), [Eric Teubert](https://github.com/eteubert/) and [others](https://github.com/podlove/podlove-web-player/contributors)
 <hr />
 <img src="https://raw.github.com/McCouman/PPP-Color-Designer/master/ppp-color-designer/screenshot.png" />
 
