@@ -33,6 +33,10 @@ Viel Spaß
 
 <a href="https://flattr.com/profile/mccouman"><img style="margin-bottom: -7px;" src="https://a248.e.akamai.net/camo.github.com/739a757846f69c1cc10163619eec008e871b591b/687474703a2f2f6170692e666c617474722e636f6d2f627574746f6e2f666c617474722d62616467652d6c617267652e706e67"> Michael McCouman jr.</a> <a style="text-decoration:none !important; color:#000 !important;" href="https://github.com/McCouman/">(Wordpress Plugin)</a>, <span style="padding-left:10px;"></span><a href="https://flattr.com/profile/SimonWaldherr"><img style="margin-bottom: -7px;" src="https://a248.e.akamai.net/camo.github.com/739a757846f69c1cc10163619eec008e871b591b/687474703a2f2f6170692e666c617474722e636f6d2f627574746f6e2f666c617474722d62616467652d6c617267652e706e67"> Simon Waldherr</a>  <a style="text-decoration:none !important; color:#000 !important;" href="https://github.com/SimonWaldherr/ColorConverter.js">(ColorConverter.js)</a>
 
+<hr />
+<img src="https://raw.github.com/McCouman/PPP-Color-Designer/master/ppp-color-designer/screenshot.png" />
+<hr />
+
 <h4>Lizenzen:</h4>
 <pre>
 /**
@@ -69,6 +73,4 @@ Contributors: [Simon Waldherr](https://github.com/simonwaldherr/)
 </pre>
 Project: <a href="https://github.com/podlove/podlove-web-player/blob/2.0.x/podlove-web-player/static/podlove-web-player.css">Podlove</a><br>
 Contributors: [Gerrit van Aaken](https://github.com/gerritvanaaken/), [Simon Waldherr](https://github.com/simonwaldherr/), [Frank Hase](https://github.com/Kambfhase/), [Eric Teubert](https://github.com/eteubert/) and [others](https://github.com/podlove/podlove-web-player/contributors)
-<hr />
-<img src="https://raw.github.com/McCouman/PPP-Color-Designer/master/ppp-color-designer/screenshot.png" />
 
