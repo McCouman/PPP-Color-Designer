@@ -1,0 +1,39 @@
+PPP-Color-Designer Lizenzen
+===========================
+
+-----------------------------------------------------
+PPP-Color-Designer:
+-----------------------------------------------------
+/**
+* License: MIT
+* Version: 1.5.9
+* Project: Color Designer Plugin
+* BY: Michael Kaufmann (https://github.com/mccouman/)
+*/
+
+-----------------------------------------------------
+ColorConverter.js:
+-----------------------------------------------------
+/**
+* License: MIT
+* Version: 0.1.0
+* Project: ColorConverter.js (https://github.com/SimonWaldherr/ColorConverter.js)
+* BY: Simon Waldherr (https://github.com/simonwaldherr/)
+*/
+
+-----------------------------------------------------
+Podlove Webplayer CSS:
+-----------------------------------------------------
+/**
+* License: BSD 2-Clause License
+* Link: https://github.com/podlove/podlove-web-player/
+* Version: 2.0.13 (last download)
+* BY: Gerrit van Aaken, Simon Waldherr, Frank Hase, Eric Teubert & Andere
+* Project: https://github.com/podlove/podlove-web-player/blob/2.0.x/podlove-web-player/static/podlove-web-player.css
+* Contributors: 
+*	- Gerrit van Aaken  	(https://github.com/gerritvanaaken/), 
+*	- Simon Waldherr		(https://github.com/simonwaldherr/), 
+*	- Frank Hase			(https://github.com/Kambfhase/), 
+*	- Eric Teubert			(https://github.com/eteubert/) 
+*	- weitere 				(https://github.com/podlove/podlove-web-player/contributors)
+*/
