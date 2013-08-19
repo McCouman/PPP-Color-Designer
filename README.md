@@ -38,23 +38,24 @@ Viel Spaß
 /**
 * PPP-Color-Designer
 * License: MIT
+* Link: https://github.com/McCouman/PPP-Color-Designer
 * Version: 1.8.5
 * BY: Michael McCouman jr. (aka Michael Kaufmann)
 */
 </pre>
-Project: <a href="https://github.com/McCouman/PPP-Color-Designer">Color Designer Plugin</a>
+Project: <a href="https://github.com/McCouman/PPP-Color-Designer">Color Designer Plugin</a><br>
 Contributors: [Michael Kaufmann](https://github.com/mccouman/)
 
 <pre>
 /**
 * ColorConverter.js:
 * License: MIT
+* Link: https://github.com/SimonWaldherr/ColorConverter.js
 * Version: 0.1.0
-* StandDate: 07.2013
 * BY: Simon Waldherr
 */
 </pre>
-Project: <a href="https://github.com/SimonWaldherr/ColorConverter.js">ColorConverter.js</a>
+Project: <a href="https://github.com/SimonWaldherr/ColorConverter.js">ColorConverter.js</a><br>
 Contributors: [Simon Waldherr](https://github.com/simonwaldherr/)
 
 <pre>
@@ -62,11 +63,11 @@ Contributors: [Simon Waldherr](https://github.com/simonwaldherr/)
 * Podlove Webplayer CSS:
 * License: BSD 2-Clause License
 * Link: https://github.com/podlove/podlove-web-player/
-* Version: 2.0.13 (Download)
+* Version: 2.0.13 (last download)
 * BY: Gerrit van Aaken, Simon Waldherr, Frank Hase, Eric Teubert & Andere
 */
 </pre>
-Project: <a href="https://github.com/podlove/podlove-web-player/blob/2.0.x/podlove-web-player/static/podlove-web-player.css">Podlove</a>
+Project: <a href="https://github.com/podlove/podlove-web-player/blob/2.0.x/podlove-web-player/static/podlove-web-player.css">Podlove</a><br>
 Contributors: [Gerrit van Aaken](https://github.com/gerritvanaaken/), [Simon Waldherr](https://github.com/simonwaldherr/), [Frank Hase](https://github.com/Kambfhase/), [Eric Teubert](https://github.com/eteubert/) and [others](https://github.com/podlove/podlove-web-player/contributors)
 <hr />
 <img src="https://raw.github.com/McCouman/PPP-Color-Designer/master/ppp-color-designer/screenshot.png" />
