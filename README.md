@@ -17,9 +17,10 @@ Damit auch du die Möglichkeit hast neben Podlove, deinen Player anzupassen gibt
 Developed by <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> (JavaScript, CSS) & <a href="https://github.com/McCouman/PPP-Color-Designer/">Michael McCouman jr.</a> (PHP, CSS, JavaScript)
 <update>
 ###Updates:
-
--Das Plugin ist nun auch für den Einsatz mit Wordpress MU möglich.
--DB Filecontainer 
+<ul>
+<li>Das Plugin ist nun auch für den Einsatz mit Wordpress MU möglich.</li>
+<li>DB Filecontainer</li>
+</ul>
 </update>
 
 <h3>Installation:</h3>
