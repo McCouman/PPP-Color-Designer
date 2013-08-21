@@ -14,7 +14,7 @@ Damit auch du die Möglichkeit hast neben Podlove, deinen Player anzupassen gibt
 **Bitte beachte** das dieses Plugin unabhängig von Podlove läuft und vom Projekt <u>nicht</u> unterstützt wird. Dies ermöglicht vor allem, das Plugin bei Fehlern einfach abzuschalten ohne Podlove und seine Updates zu beschädigen.
 
 
-Developed by <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> (JavaScript, CSS) & <a href="https://github.com/McCouman/PPP-Color-Designer/">Michael McCouman jr.</a> (PHP, CSS, JavaScript)
+Developed by <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> (JavaScript, CSS) & <a href="https://github.com/McCouman/PPP-Color-Designer/">Michael Kaufmann.</a> (PHP, CSS, JavaScript)
 <update>
 ####Updates:
 <ul>
@@ -33,7 +33,7 @@ Developed by <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> (Java
 6. Klicke zum Abschluss einfach auf "Speichern und CSS erstellen"
 
 Viel Spaß
-<a href="https://github.com/McCouman/">McCouman</a>
+<a href="https://github.com/McCouman/">Michael</a>
 
 <h4>Unterstützen:</h4>
 
@@ -80,3 +80,5 @@ Contributors: [Simon Waldherr](https://github.com/simonwaldherr/)
 Project: <a href="https://github.com/podlove/podlove-web-player/blob/2.0.x/podlove-web-player/static/podlove-web-player.css">Podlove</a><br>
 Contributors: [Gerrit van Aaken](https://github.com/gerritvanaaken/), [Simon Waldherr](https://github.com/simonwaldherr/), [Frank Hase](https://github.com/Kambfhase/), [Eric Teubert](https://github.com/eteubert/) and [others](https://github.com/podlove/podlove-web-player/contributors)
 
+
+Infos gab es auch unter <a href="https://www.xing.com/net/prica6abcx/podcasting_trends/podcast-produktion-27121/farbe-fur-den-podlove-webplayer-44909018/">Xing</a>
