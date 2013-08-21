@@ -50,7 +50,7 @@ Viel Spaß
 * License: MIT
 * Link: https://github.com/McCouman/PPP-Color-Designer
 * Version: 1.5.9
-* BY: Michael McCouman jr. (aka Michael Kaufmann)
+* BY: Michael Kaufmann (Michael McCouman jr.)
 */
 </pre>
 Project: <a href="https://github.com/McCouman/PPP-Color-Designer">Color Designer Plugin</a><br>
