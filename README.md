@@ -14,7 +14,7 @@ Damit auch du die Möglichkeit hast neben Podlove, deinen Player anzupassen gibt
 **Bitte beachte** das dieses Plugin unabhängig von Podlove läuft und vom Projekt <u>nicht</u> unterstützt wird. Dies ermöglicht vor allem, das Plugin bei Fehlern einfach abzuschalten ohne Podlove und seine Updates zu beschädigen.
 
 
-Developed by <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> (JavaScript, CSS) & <a href="https://github.com/McCouman/PPP-Color-Designer/">Michael Kaufmann.</a> (PHP, CSS, JavaScript)
+Developed by <a href="https://github.com/SimonWaldherr">Simon Waldherr</a> (JavaScript, CSS) & <a href="https://github.com/McCouman/PPP-Color-Designer/">Michael Kaufmann (McCouman)</a> (PHP, CSS, JavaScript)
 <update>
 ####Updates:
 <ul>
