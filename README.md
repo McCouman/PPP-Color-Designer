@@ -4,9 +4,8 @@ PPP-Color-Designer
 <h3>Color Design für dein Podlove WebPlayer</h3>
 
 **German Version: 1.5.9 / MU fähig ab v1.5.7**
-
-Dies ist die Kurzvariante des Color Designers für den <a href="https://github.com/podlove/podlove-web-player/">Podlove Webplayer</a> und erzeugt automatische eine CSS Datei mit deiner Lieblingsfarbe für den Player. 
-Da in Podlove Projekt noch an vielen weiteren Entwicklungen gearbeitet wird, ist die Farbgestalltung recht schwirig und daher wurde der Designer vorab erst einmal ausgesetzt.
+Dies ist die Kurzvariante des Color Designers für den <a href="https://github.com/podlove/podlove-web-player/">Podlove Webplayer</a> und erzeugt automatische eine CSS Datei mit deiner Lieblingsfarbe für den Player. Da in Podlove Projekt noch an vielen weiteren Entwicklungen gearbeitet wird, 
+ist die Farbgestaltung recht schwierig und daher wurde der Designer vorab erst einmal ausgesetzt.
 
 <a href="http://podbe.wikibyte.org">Podbe</a> als Podcast Verzeichniss nutzt seit Anfang an die Möglichkeiten, den Player individuell zu gestallten und damit seine eigenen Ausduck dem Player zu schenken. 
 Damit auch du die Möglichkeit hast neben Podlove, deinen Player anzupassen gibt es dieses Plugin. 
