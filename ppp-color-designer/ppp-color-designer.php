@@ -19,8 +19,8 @@ define('PLAYER_CSS_URI', WP_CONTENT_URL . '/uploads/player-css-');
 function admin_register_head() {
 
 	//JQ 
-	$urljq = plugins_url(basename(dirname(__FILE__)) . '/js/libs/jquery.min.js?ver=' . PLAYER_CSS_VERSION);
-		 echo "<script id='pcss-jq' type='text/javascript' src='$urljq'></script>\n";
+	#$urljq = plugins_url(basename(dirname(__FILE__)) . '/js/libs/jquery.min.js?ver=' . PLAYER_CSS_VERSION);
+	#	 echo "<script id='pcss-jq' type='text/javascript' src='$urljq'></script>\n";
 				
 	//Player standard css
 	$playercss = plugins_url(basename(dirname(__FILE__)) . '/js/static/podlove-web-player.css?ver=' . PLAYER_CSS_VERSION);
