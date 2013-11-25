@@ -168,7 +168,7 @@ if(!function_exists('player_css_options_page')) {
 <style>.nots {display:none;} div#mc {background: #efe; border: 1px solid #afa; padding:10px; width: 84%;} div#sw {background: #ffe; border: 1px solid #ff5; padding:10px; width: 84%;}</style>	
 <div class="wrap">
 			<div class="icon32"><img style="width:40px;" src="https://raw.github.com/podlove/podlove-web-player/2.0.x/podlove-web-player/samples/coverimage.png" /><br /></div>
-			<h2 style="margin-bottom: 15px;"><?php _e('Lege die Farbe deines Webplayer fest:', 'player-css'); ?></h2>
+			<h2 style="margin-bottom: 15px;"><?php _e('Lege die Farbe deines Webplayers fest:', 'player-css'); ?></h2>
 			<p><?php _e('Design the Podlove Webplayer in your favorite color.', 'player-css'); ?></p>
 		<div class='colorslider'>
 			<div id='color1' class='box'>

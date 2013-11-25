@@ -3,7 +3,7 @@ PPP-Color-Designer
 
 <h3>Color Design für dein Podlove WebPlayer</h3>
 
-**German Version: 1.5.9 / MU fähig ab v1.5.7**
+**German Version: 1.5.10 / MU fähig ab v1.5.7**
 Dies ist die Kurzvariante des Color Designers für den <a href="https://github.com/podlove/podlove-web-player/">Podlove Webplayer</a> und erzeugt automatische eine CSS Datei mit deiner Lieblingsfarbe für den Player. Da in Podlove Projekt noch an vielen weiteren Entwicklungen gearbeitet wird, 
 ist die Farbgestaltung recht schwierig und daher wurde der Designer vorab erst einmal ausgesetzt.
 
